@@ -1,7 +1,6 @@
-<!-- resources/views/home.blade.php -->
 <x-layout>
     <x-slot:heading>
-        Home page
+        Top Cryptocurrencies
     </x-slot:heading>
 
     <style>
